@@ -30,7 +30,7 @@ Core_Focus:
 
 ---
 
-```text
+```js
 while (true) { 
     increment(intelligence); 
 }
